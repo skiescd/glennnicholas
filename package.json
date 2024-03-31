@@ -1,0 +1,33 @@
+{
+  "name": "glennnicholas",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "glennnicholas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skiescd/glennnicholas"
+  },
+  "website": "https://github.com/skiescd/glennnicholas.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "skiescd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiescd/glennnicholas/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/skiescd/glennnicholas#readme",
+  "dependencies": {
+    "erinrossas": "1.0.2"
+  }
+}
